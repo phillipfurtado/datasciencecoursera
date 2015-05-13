@@ -1,6 +1,6 @@
 # How the script works
 
-The way that the script implements the five steps described in the course project's definition, are detailed below:
+The way that the script implements the five steps described in the course project's definition is detailed below:
 
 
 0. Initially the script download and unzip the dataset.
